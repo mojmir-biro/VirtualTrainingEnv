@@ -10,6 +10,8 @@ Developed with Unreal Engine 5
 ### Getting started
 - upon launching UE you're presented with a short introduction into basic controls and systems in UE, I recommend starting there
 <img width="2560" height="1440" alt="introduction" src="https://github.com/user-attachments/assets/16121b03-83b1-4bd2-974f-38d1d2a5ae3e" />
+- if you're having performance issues, the visual fidelity of the viewport can be reduced as shown
+<img width="2559" height="1439" alt="performance" src="https://github.com/user-attachments/assets/0590ce8c-fee1-42eb-840f-a4cb7968e6f4" />
 
 ## OptiTrack Unreal Engine Plugin
 - download the plugin from [OptiTrack's website](https://optitrack.com/software#motive-streaming-plugins), install the latest version (5.7 v2)
