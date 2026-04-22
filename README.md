@@ -16,6 +16,3 @@ Developed with Unreal Engine 5
 - extract the contents of the zip file according to the included readme file
 - after cloning and opening the project in UE, you might need to enable the plugin for the project, this can be done as shown
 <img width="2559" height="1439" alt="plugin" src="https://github.com/user-attachments/assets/227842f3-67ca-462a-bb41-882e02ad6a49" />
-
-## OptiTrackMotive
-- download the latest version of Motive 3 from [OptiTrack's website](https://optitrack.com/support/downloads), (version 3.4.1 Final)
