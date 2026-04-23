@@ -10,6 +10,22 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "LiveLinkHub",
+			"Enabled": true
+		},
+		{
+			"Name": "LiveLink",
+			"Enabled": true
+		},
+		{
+			"Name": "OptitrackLiveLink",
+			"Enabled": true
+		},
+		{
+			"Name": "PerformanceCaptureWorkflow",
+			"Enabled": true
 		}
 	]
 }
